@@ -1,3 +1,3 @@
-npm i adm-zip
-npm i axios
+
+npm i readline-sync
 pause
